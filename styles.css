@@ -92,7 +92,7 @@ a {
   border-radius: 20px;
   padding: 8px 0;
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 700;
 
 }
 
@@ -154,7 +154,7 @@ a {
   background-color: transparent;
   border: 1px solid #ffffff;
   outline: none;
-  padding: 20px 10px;
+  padding: 24px 10px 10px 10px ;
   color: white;
   font-size: 14px;
   font-family: 'Outfit', sans-serif;
@@ -166,7 +166,7 @@ input::placeholder {
 }
 input + label {
   position: absolute;
-  top: 23px;
+  top: 19px;
   left: 10px;
   color: #71767b;
   font-size: 14px;
